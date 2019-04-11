@@ -1,0 +1,7 @@
+C:\Users\Grant\Documents\College\Fall Semester 2017\CIS200\Program1A\Program1A\bin\Debug\Program1A.exe.config
+C:\Users\Grant\Documents\College\Fall Semester 2017\CIS200\Program1A\Program1A\bin\Debug\Program1A.exe
+C:\Users\Grant\Documents\College\Fall Semester 2017\CIS200\Program1A\Program1A\bin\Debug\Program1A.pdb
+C:\Users\Grant\Documents\College\Fall Semester 2017\CIS200\Program1A\Program1A\obj\Debug\Program1A.csprojResolveAssemblyReference.cache
+C:\Users\Grant\Documents\College\Fall Semester 2017\CIS200\Program1A\Program1A\obj\Debug\Program1A.csproj.CoreCompileInputs.cache
+C:\Users\Grant\Documents\College\Fall Semester 2017\CIS200\Program1A\Program1A\obj\Debug\Program1A.exe
+C:\Users\Grant\Documents\College\Fall Semester 2017\CIS200\Program1A\Program1A\obj\Debug\Program1A.pdb
